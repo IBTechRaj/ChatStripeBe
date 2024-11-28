@@ -1,0 +1,24 @@
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/date-3.4.0/ext/date
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby extconf.rb
+checking for rb_category_warn()... no
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/date-3.4.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1k34poo sitelibdir\=./.gem.20241106-29491-1k34poo clean
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/date-3.4.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1k34poo sitelibdir\=./.gem.20241106-29491-1k34poo
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/date-3.4.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1k34poo sitelibdir\=./.gem.20241106-29491-1k34poo install
+/usr/bin/install -m 0755 date_core.so ./.gem.20241106-29491-1k34poo
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/date-3.4.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1k34poo sitelibdir\=./.gem.20241106-29491-1k34poo clean

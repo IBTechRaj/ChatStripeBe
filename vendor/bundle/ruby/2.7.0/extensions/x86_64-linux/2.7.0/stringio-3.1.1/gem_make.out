@@ -1,0 +1,18 @@
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.1/ext/stringio
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-4aieaf sitelibdir\=./.gem.20241106-29491-4aieaf clean
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-4aieaf sitelibdir\=./.gem.20241106-29491-4aieaf
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-4aieaf sitelibdir\=./.gem.20241106-29491-4aieaf install
+/usr/bin/install -m 0755 stringio.so ./.gem.20241106-29491-4aieaf
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-4aieaf sitelibdir\=./.gem.20241106-29491-4aieaf clean

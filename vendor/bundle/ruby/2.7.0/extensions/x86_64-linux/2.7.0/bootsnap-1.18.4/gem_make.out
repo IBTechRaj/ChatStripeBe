@@ -1,0 +1,22 @@
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.18.4/ext/bootsnap
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-sh88mb sitelibdir\=./.gem.20241106-29491-sh88mb clean
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-sh88mb sitelibdir\=./.gem.20241106-29491-sh88mb
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-sh88mb sitelibdir\=./.gem.20241106-29491-sh88mb install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20241106-29491-sh88mb/bootsnap
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-sh88mb sitelibdir\=./.gem.20241106-29491-sh88mb clean

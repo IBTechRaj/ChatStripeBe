@@ -1,0 +1,18 @@
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1b2z634 sitelibdir\=./.gem.20241106-29491-1b2z634 clean
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1b2z634 sitelibdir\=./.gem.20241106-29491-1b2z634
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1b2z634 sitelibdir\=./.gem.20241106-29491-1b2z634 install
+/usr/bin/install -m 0755 cparse.so ./.gem.20241106-29491-1b2z634/racc
+
+current directory: /home/raj/chat_stripe/my_project/vendor/bundle/ruby/2.7.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241106-29491-1b2z634 sitelibdir\=./.gem.20241106-29491-1b2z634 clean
